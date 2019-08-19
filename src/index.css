@@ -1,0 +1,29 @@
+
+/* Here is the cusom styling for Melissa's first website! */
+.melissa-custom-style p.first-p {
+  color: pink;
+  font-size: 2em;
+}
+.melissa-custom-style p.second-p {
+  color: orange;
+}
+
+
+
+
+
+/* Create React App's styling */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
